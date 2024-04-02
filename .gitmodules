@@ -1,0 +1,6 @@
+[submodule "watchlist"]
+	path = watchlist
+	url = git@github.com:Expletiv/movie-db-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Expletiv/movie-db-frontend.git
